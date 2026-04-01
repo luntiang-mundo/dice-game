@@ -1,2 +1,2 @@
 # dice-game
-road to many!!
+settle your arguments with your partner via dice game. : )
